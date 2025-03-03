@@ -1,0 +1,4 @@
+Row Buffer Hits: 446
+Row Buffer Misses: 554
+Average Latency: 77.7 cycles
+Max Latency: 100 cycles
