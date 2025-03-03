@@ -1,0 +1,6 @@
+{'Total Latency': 161530,
+ 'Average Latency': 161.53,
+ 'Max Latency': 212,
+ 'L1': {'Accesses': 2000, 'Hits': 124, 'Misses': 1876},
+ 'L2': {'Accesses': 1876, 'Hits': 347, 'Misses': 1529},
+ 'Memory': {'Accesses': 1529}}
