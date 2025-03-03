@@ -1,0 +1,3 @@
+Total Packets Delivered: 1012
+Average Latency: 227.44 cycles
+Maximum Latency: 276 cycles
